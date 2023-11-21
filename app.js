@@ -20,7 +20,7 @@ function workingHours(req, res, next) {
 
   const normalBusinessHours = {
     open: 7,
-    close: 22,
+    close: 10,
   };
 
   if (
