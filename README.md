@@ -1,4 +1,4 @@
-✅ Link to my server: http://http://164.90.255.203:3000/
+✅ Link to my server: http://164.90.255.203:3000/
 
 ✅ Answers to the prompts:
 Things that are of the most value to me currently (not considering school/work) are my personal relationships: my friends, my family, and my partner. I always try to see my loved ones every week, even for a little bit, just because I know how important those people are to me. I invest my time in texting, calling, and checking up on them, as well as in buying gifts and creating memories together. I also value the social aspect of those interactions i.e. going out for dinners or walks, or bar hopping on the weekends. I enjoy being out and feeling like I am really living my life and not just constantly working to achieve something (which is what it feels like sometimes). 
